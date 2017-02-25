@@ -1,0 +1,25 @@
+{
+  "chrome_extension_description": {
+    "message": "This extension allows you to view private profile pictures on Instagram."
+  },
+   "close_popup_tip": {
+      "description": "close popup TIP",
+      "message": "Press Esc to close"
+   },
+   "photo_link": {
+      "description": "photo link text",
+      "message": "Get Link"
+   },
+   "photo_link_tip": {
+      "description": "photo link TIP",
+      "message": "You can use this link to share this photo with anyone, even if they don\u2019t have a Instagram account."
+   },
+    "share_popup_title": {
+      "description": "share popup title",
+      "message": "Share This Photo"
+   },
+    "close_share_popup": {
+      "description": "share popup close button text",
+      "message": "Close"
+   }
+}

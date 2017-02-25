@@ -1,0 +1,119 @@
+﻿img._8gpiy._r43r5:hover{
+    cursor: zoom-in;
+}
+
+#PPVFI_black_layer {
+    position: fixed;
+    display: inline-block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 9998;
+    transition: opacity 300ms ease-in-out;
+}
+
+#PPVFI_photo {
+    max-width: calc(100vh - 32px);
+    left: 50vw;
+    top: 50vh;
+    -webkit-transform: rotateZ(0deg) translate(-50%, -50%);
+    -webkit-transform-origin: 0 0;
+    border: 1px solid rgba(0, 0, 0, .7);
+    box-shadow: 0 0 25px rgba(0, 0, 0, .8);
+    border-radius: 5px;
+    position: relative;
+    cursor: zoom-in;
+}
+
+#PPVFI_photo.zoom {
+    height: calc(100vh - 32px);
+    cursor: zoom-out;
+}
+
+#PPVFI_panel {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+
+#PPVFI_panel a {
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.PPVFI_button_panel {
+    border-radius: 3px;
+    border: 1px solid #dbdbdb;
+    color: #fff;
+    background-color: rgba(0,0,0,.24);
+    cursor: pointer;
+    margin: 4px;
+}
+
+#PPVFI_close {
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    cursor: pointer;
+}
+
+#PPVFI_share {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    z-index: 9998;
+    opacity: 0;
+    transition: opacity 300ms;
+}
+
+#PPVFI_share_box {
+    width: 748px;
+    border-radius: 5px;
+    position: fixed;
+    top: 90px;
+    left: calc(50% - 374px);
+    box-shadow: 2px 2px 90px rgba(0, 0, 0, .2);
+    overflow: hidden;
+    background: #fff;
+    transition: top 300ms;
+}
+
+.PPVFI_head {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 12px;
+    color: #262626;
+    background-color: #fafafa;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+#PPVFI_url {
+    margin: 25px 10px;
+    height: 30px;
+    width: 718px;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.PPVFI_footer {
+    position: relative;
+    padding: 5px 0;
+    margin: 5px 10px;
+    overflow: hidden;
+    text-align: right;
+    display: inline-block;
+}
+
+#PPVFI_button{
+    width: 128px;
+}

@@ -1,0 +1,25 @@
+﻿{
+  "chrome_extension_description": {
+    "message": "Tento doplnek umožnuje procházet blokován obrázek profilu na Instagram."
+  },
+   "close_popup_tip": {
+      "description": "close popup TIP",
+      "message": "Zavrete okno stisknutím klávesy ESC"
+   },
+   "photo_link": {
+      "description": "photo link text",
+      "message": "Získat odkaz"
+   },
+   "photo_link_tip": {
+      "description": "photo link TIP",
+      "message": "Pomocí tohoto odkazu mužete sdílet tuto fotku s kýmkoli, dokonce i s lidmi, kterí nemají úcet na Instagram."
+   },
+    "share_popup_title": {
+      "description": "share popup title",
+      "message": "Sdílet tuto fotku"
+   },
+    "close_share_popup": {
+      "description": "share popup close button text",
+      "message": "Zavřít"
+   }
+}

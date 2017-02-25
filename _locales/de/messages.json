@@ -1,0 +1,25 @@
+﻿{
+  "chrome_extension_description": {
+    "message": "Dieses Add-on ermöglicht es Ihnen, blockiert Profilbild auf Instagram zu suchen."
+  },
+   "close_popup_tip": {
+      "description": "close popup TIP",
+      "message": "Zum Schließen die ESC-Taste betätigen"
+   },
+   "photo_link": {
+      "description": "photo link text",
+      "message": "Link abrufen"
+   },
+   "photo_link_tip": {
+      "description": "photo link TIP",
+      "message": "Du kannst diesen Link nutzen, um das Foto mit anderen zu teilen, auch wenn sie kein Konto bei Instagram haben."
+   },
+    "share_popup_title": {
+      "description": "share popup title",
+      "message": "Dieses Foto teilen"
+   },
+    "close_share_popup": {
+      "description": "share popup close button text",
+      "message": "Schließen"
+   }
+}

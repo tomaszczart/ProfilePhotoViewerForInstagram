@@ -1,0 +1,25 @@
+﻿{
+  "chrome_extension_description": {
+    "message": "Ten dodatek umożliwia Ci przeglądanie zdjęć profilowych na Instagramie."
+  },
+   "close_popup_tip": {
+      "description": "close popup TIP",
+      "message": "Naciśnij ESC, aby zamknąć"
+   },
+   "photo_link": {
+      "description": "photo link text",
+      "message": "Uzyskaj link"
+   },
+   "photo_link_tip": {
+      "description": "photo link TIP",
+      "message": "Możesz użyć tego linku, aby udostępnić to zdjęcie z każdym, nawet jeśli dana osoba nie ma konta na Instagramie."
+   },
+    "share_popup_title": {
+      "description": "share popup title",
+      "message": "Udostępnij to zdjęcie"
+   },
+    "close_share_popup": {
+      "description": "share popup close button text",
+      "message": "Zamknij"
+   }
+}

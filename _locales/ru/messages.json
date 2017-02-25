@@ -1,0 +1,25 @@
+﻿{
+  "chrome_extension_description": {
+    "message": "Это дополнение позволяет просматривать Удаленный пользователь изображение на Instagram."
+  },
+   "close_popup_tip": {
+      "description": "close popup TIP",
+      "message": "Нажмите Esc для выхода"
+   },
+   "photo_link": {
+      "description": "photo link text",
+      "message": "Получить ссылку"
+   },
+   "photo_link_tip": {
+      "description": "photo link TIP",
+      "message": "Эту ссылку можно использовать для предоставления доступа к этой фотографии кому угодно, даже человеку без аккаунта на Instagram."
+   },
+    "share_popup_title": {
+      "description": "share popup title",
+      "message": "Поделиться этой фотографией"
+   },
+    "close_share_popup": {
+      "description": "share popup close button text",
+      "message": "Закрыть"
+   }
+}
