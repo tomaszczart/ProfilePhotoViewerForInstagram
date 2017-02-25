@@ -11,3 +11,7 @@ It is a simple extension for Google Chrome that allows user to view profile phot
 
 ## After you click it, it will open full size photo.
 <img src="docs/opened.png" style="margin:8px">
+
+* Chrome Web Store: <a href="https://chrome.google.com/webstore/detail/profile-photo-viewer-for/lfolibbobnddfcjbjnfiikjgdefiejpl" target="_blank"> click </a>
+* Previous name of this extenxion: Photo Hack for Facebook (changed in 2017).
+* Tomasz Czart 2014-2017.
