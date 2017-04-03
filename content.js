@@ -4,7 +4,8 @@ function main_function(data) {
 
     const dt = data.target;
 
-    if (dt.className == '_8gpiy _r43r5') {
+    if (dt.className == '_iv4d5') {
+
         let photo_url = dt.src.replace(/\b\/s([0-9]{3})x([0-9]{3})\b/, '');//remove size tags
         popup(photo_url);//this part that determinate photo size
     }
